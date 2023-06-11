@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehran Assari</h1>
 <h1 align="center">DEVELOPER WITH DESIGNER'S EYES 👀<br>DESIGNER WITH DEVELOPER'S MIND 🧠</h1>
 
-<h3 align="center"A multidisciplinary developer and designer who specializing in intuitive development, user-centric design thinking & improving useability of digital products.
+<h3 align="center">A multidisciplinary developer and designer who specializing in intuitive development, user-centric design thinking & improving useability of digital products.
 I'm passionate about exploring new technologies and trends in the digital world and delivering exceptional results through innovative solutions.</h3>
 
 - 📫 How to reach me **mehran.asari@gmail.com**
